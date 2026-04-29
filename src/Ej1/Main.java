@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     void main() {
         Scanner sc = new Scanner(System.in);
-        ArrayList<Estudiantes> lista = new ArrayList<>();
+        ArrayList<Estudiante> lista = new ArrayList<>();
 
         BecadoExcelencia b = new BecadoExcelencia();
         System.out.print("Código: ");
